@@ -1,0 +1,19 @@
+{
+  "name": "sass-warsztat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DomiGnh/sass-warsztat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DomiGnh/sass-warsztat/issues"
+  },
+  "homepage": "https://github.com/DomiGnh/sass-warsztat#readme"
+}
